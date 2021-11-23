@@ -1,7 +1,7 @@
 # quote_extract
 
 
-To Setup Your Venv: 
+To Setup Your Venv: </br>
 `python -m venv venv` </br>
 `source env/bin/activate` </br>
 `python -m pip install -r requirements.txt` </br>
